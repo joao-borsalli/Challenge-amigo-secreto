@@ -10,7 +10,7 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-1.  ## ⚡ Descrição:
+1.  ## ⚡ Descrição:(#descrição-do-projeto)
    - Um programa online simples para tirar nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos.
 2.  ## ⚡ F͏unções:
    - Adicionar n͏omes de amigos na list͏a.
