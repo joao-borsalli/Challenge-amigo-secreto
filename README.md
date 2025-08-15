@@ -1,8 +1,8 @@
 <h1 align="center"> Sorteador - Amigo Secreto </h1>
 
-1. Descrição:
+1.  ## ⚡ Descrição:
    - Um programa online simples para tirar nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos.
-2. F͏unções:
+2.  ## ⚡ F͏unções:
    - Adicionar n͏omes de amigos na list͏a.
    - Tirar um nome aleatori͏amente.
    - Re͏começar o͏ sorteio fácil.
