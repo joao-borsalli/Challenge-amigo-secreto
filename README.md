@@ -1,4 +1,4 @@
-<h1 align="center"> Sorteador - Amigo Secreto ![](https://img.shields.io/badge/release_date-august-blue)</h1>
+<h1 align="center"> Sorteador - Amigo Secreto </h1>
 
 1.  ## ⚡ Descrição:
    - Um programa online simples para tirar nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos.
