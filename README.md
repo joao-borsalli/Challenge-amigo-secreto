@@ -6,13 +6,17 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Acesso ao Projeto](#acesso-ao-projeto)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Desenvolvedor do Projeto](#pessoas-desenvolvedoras)
+:small_blue_diamond: [Licença](#licença)
+:small_blue_diamond: [Conclusão](#conclusão)
+
 
 ... 
 
