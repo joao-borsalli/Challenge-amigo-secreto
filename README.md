@@ -6,6 +6,8 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
+:small_blue_diamond: [Funcionalidades](#demonstração-da-aplicação)
+
 :small_blue_diamond: [Demonstração da Aplicação](#demonstração-da-aplicação)
 
 :small_blue_diamond: [Acesso ao Projeto](#acesso-ao-projeto)
@@ -24,7 +26,7 @@
   - Um programa online simples para sortear nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos. 
 </p>
 
-## Demonstração da Aplicação
+## Funcionalidades
 
 :heavy_check_mark: Adicionar n͏omes de amigos à list͏a
 
@@ -38,20 +40,12 @@
 
 :heavy_check_mark: Interface simples e ͏interativa
 
-## Layout ou Deploy da Aplicação :dash:
+## Demonstração da Aplicação :dash:
 
 
 ... 
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-## Pré-requisitos
-
-:warning: [Node](https://nodejs.org/en/download/)
-
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
 
 ## Como rodar a aplicação :arrow_forward:
 
