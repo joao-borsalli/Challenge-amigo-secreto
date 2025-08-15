@@ -12,8 +12,6 @@
 
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
 :small_blue_diamond: [Desenvolvedor do Projeto](#pessoas-desenvolvedoras)
 
 :small_blue_diamond: [Licença](#licença)
@@ -28,7 +26,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  - Um programa online simples para sortear nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos. 
 </p>
 
 ## Funcionalidades
@@ -43,7 +41,6 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
 ... 
 
