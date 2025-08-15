@@ -40,14 +40,14 @@
 
 :heavy_check_mark: Interface simples e ͏interativa
 
-## Demonstração da Aplicação <p>:dash:</p>
+## Demonstração da Aplicação
 
 
 ... 
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
-## Como rodar a aplicação :arrow_forward:
+## Acesso ao Projeto :arrow_forward:
 
 No terminal, clone o projeto: 
 
