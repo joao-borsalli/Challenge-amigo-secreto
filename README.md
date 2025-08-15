@@ -1,5 +1,19 @@
 <h1 align="center"> Sorteador - Amigo Secreto </h1>
 
+# Índice 
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
 1.  ## ⚡ Descrição:
    - Um programa online simples para tirar nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos.
 2.  ## ⚡ F͏unções:
