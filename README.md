@@ -1,5 +1,8 @@
 <h1 align="center"> Sorteador - Amigo Secreto </h1>
 
+1. Descrição
+   - Um programa online simples para tirar nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos.
+
 
 ## ⚡ Tecnologias
 ![HTML](https://img.shields.io/badge/-html-E34F26?style=for-square&logo=html5&logoColor=white)
