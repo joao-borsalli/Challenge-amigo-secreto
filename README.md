@@ -40,7 +40,7 @@
 
 :heavy_check_mark: Interface simples e ͏interativa
 
-##  :dash: Demonstração da Aplicação
+:dash: ## Demonstração da Aplicação
 
 
 ... 
