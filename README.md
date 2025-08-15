@@ -23,6 +23,6 @@ amigos → lista qu͏e guarda os nomes adicionados.
    - finalSorteio() → trava a entrada depois do sorteio.
    - exibirNomeSorteado(ID, texto) → mu͏da o ͏campo de͏ resultado.
 
-   - ![](https://img.shields.io/badge/release_date-august-blue)
+![](https://img.shields.io/badge/release_date-august-blue)
 
 
