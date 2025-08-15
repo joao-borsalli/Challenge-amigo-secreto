@@ -13,8 +13,11 @@
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
 :small_blue_diamond: [Desenvolvedor do Projeto](#pessoas-desenvolvedoras)
+
 :small_blue_diamond: [Licença](#licença)
+
 :small_blue_diamond: [Conclusão](#conclusão)
 
 
