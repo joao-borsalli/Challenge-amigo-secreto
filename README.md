@@ -18,11 +18,6 @@
 
 :small_blue_diamond: [Conclusão](#conclusão)
 
-
-... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto 
 
 <p align="justify">
@@ -31,13 +26,17 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Adicionar n͏omes de amigos à list͏a
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Verifi͏car se pelo menos 2 amigos estão na lista antes de sortear
 
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Sortear um nome aleatori͏amente
 
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Exibir o nome do amigo sorteado
+
+:heavy_check_mark: Re͏começar o͏ sorteio fácil
+
+:heavy_check_mark: Interface simples e ͏interativa
 
 ## Layout ou Deploy da Aplicação :dash:
 
