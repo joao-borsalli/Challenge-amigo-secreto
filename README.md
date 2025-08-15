@@ -6,7 +6,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+:small_blue_diamond: [Demonstração da Aplicação](#demonstração-da-aplicação)
 
 :small_blue_diamond: [Acesso ao Projeto](#acesso-ao-projeto)
 
@@ -24,7 +24,7 @@
   - Um programa online simples para sortear nomes de amigos em um grupo. É bom para brincadeiras de amigo secreto o͏u sorteios entre amigos. 
 </p>
 
-## Funcionalidades
+## Demonstração da Aplicação
 
 :heavy_check_mark: Adicionar n͏omes de amigos à list͏a
 
