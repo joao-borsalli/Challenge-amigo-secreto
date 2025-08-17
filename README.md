@@ -1,4 +1,4 @@
-<img width="847" height="249" alt="capa_sorteador" src="https://github.com/user-attachments/assets/7d673289-cb44-4261-8e6e-0f1e8b257233" />
+<img width="847" height="249" alt="capa_sorteador" src="https://github.com/user-attachments/assets/4fa58ea2-29a4-41dc-be67-9340c5a4d0f4" />
 
 <h1>Sorteador - Amigo Secreto</h1> 
 
