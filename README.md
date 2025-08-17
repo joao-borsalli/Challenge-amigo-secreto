@@ -1,3 +1,5 @@
+<img width="847" height="249" alt="capa_sorteador" src="https://github.com/user-attachments/assets/7d673289-cb44-4261-8e6e-0f1e8b257233" />
+
 <h1>Sorteador - Amigo Secreto</h1> 
 
 > <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
