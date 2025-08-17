@@ -10,8 +10,6 @@
 
 :small_blue_diamond: [Demonstração da Aplicação](#demonstração-da-aplicação)
 
-:small_blue_diamond: [Acesso ao Projeto](#acesso-ao-projeto)
-
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 :small_blue_diamond: [Desenvolvedor do Projeto](#desenvolvedor)
@@ -46,18 +44,6 @@
 ... 
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-## Acesso ao Projeto :arrow_forward:
-
-No terminal, clone o projeto: 
-
-```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
-```
-
-... 
-
-Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
 
 ## Tecnologias utilizadas
 
