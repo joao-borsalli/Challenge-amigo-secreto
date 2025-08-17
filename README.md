@@ -59,6 +59,4 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
-The [MIT License]() (MIT)
-
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2025 - Sorteador - Amigo Secreto
