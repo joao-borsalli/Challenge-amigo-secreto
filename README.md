@@ -50,9 +50,7 @@
 
 ## Desenvolvedor
 
-Liste o time responsável pelo desenvolvimento do projeto
-
- <img src="https://avatars.githubusercontent.com/u/222327601?v=4" width=115><br>[<sub>João Borsalli</sub>](https://github.com/joao-borsalli)
+ <img src="https://avatars.githubusercontent.com/u/222327601?v=4" width=115><br>João Borsalli - [<sub>João Borsalli</sub>](https://github.com/joao-borsalli)
 
 ## Licença 
 
