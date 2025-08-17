@@ -40,10 +40,7 @@
 
 ## Demonstração da Aplicação
 
-
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
+![sorteador](https://github.com/user-attachments/assets/88c87a55-9d20-447e-9c2d-86c9b24677ad)
 
 ## Tecnologias utilizadas
 
