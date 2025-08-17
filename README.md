@@ -16,8 +16,6 @@
 
 :small_blue_diamond: [Licença](#licença)
 
-:small_blue_diamond: [Conclusão](#conclusão)
-
 ## Descrição do projeto 
 
 <p align="justify">
